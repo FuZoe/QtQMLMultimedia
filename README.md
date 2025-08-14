@@ -1,6 +1,9 @@
 a). 源代码和运行效果如下：
+
 代码
+
 main.qml - https://github.com/simonqin09/QtQMLMultimedia/blob/master/main.qml
+
 main.cpp - https://github.com/simonqin09/QtQMLMultimedia/blob/master/main.cpp
 
 
